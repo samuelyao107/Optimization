@@ -40,15 +40,13 @@ The Simple Descent Algorithm (also known as Gradient Descent) is an iterative op
 File: `Simple_Descent_Algorithm.py`
 
 ## Installation
+Clone this repository to your local machine:
 
-1. Clone this repository to your local machine:
+`bash `
+git clone https://github.com/samuelyao107/Optimization.git 
 
-```bash
-git clone https://github.com/samuelyao107/Optimization.git
-1. Ensure you have Python 3.x installed.
-2. Install any required dependencies using pip.
 
-## **Contributing**
+## Contributing
 
 Contributions are welcome! If you want to contribute:
 
