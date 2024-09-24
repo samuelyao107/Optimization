@@ -48,7 +48,7 @@ git clone https://github.com/samuelyao107/Optimization.git
 1. Ensure you have Python 3.x installed.
 2. Install any required dependencies using pip.
 
-## Contributing
+## **Contributing**
 
 Contributions are welcome! If you want to contribute:
 
